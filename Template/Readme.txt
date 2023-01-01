@@ -17,7 +17,6 @@ Cognizant
 Concentrix
 Conga
 DXC
-Deloitte
 Dishtv
 Emerson
 Ey
